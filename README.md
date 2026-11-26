@@ -43,5 +43,5 @@ python main.py   # сервер на http://127.0.0.1:8000
 
 ## БД
 
-Таблицы `categories`, `products`, `users`. Товары лежат в словаре `PRODUCTS` в `db.py`, после правки нужно снова запустить `python db.py`.
+Таблицы `categories`, `products`, `users`. Товары лежат в словаре `PRODUCTS` в `db.py`, после правки нужно снова запустить `python db.py`
 
